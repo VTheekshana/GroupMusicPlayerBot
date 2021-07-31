@@ -22,18 +22,18 @@ Add me to your group and play music freely!**
                         "🛠 Source Code 🛠", url="https://github.com/Sadew451/GroupMusicPlayerBot")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/SDBOTz"
+                        "𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 𝘽𝙊𝙏𝙨 Support", url="https://t.me/Theekshana_Support"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/SDBOTs_inifinity"
+                        "𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇x", url="https://t.me/Theekshana_Official"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/EzilaXMusicsbot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/ImGroupMusicBot?startgroup=true"
                         
                      ),
                     InlineKeyboardButton(
-                         "𝗢𝘄𝗻𝗲𝗿", url="https://t.me/Darkridersslk"
+                         "BOTs Developer", url="https://t.me/Pawan_Theekshana"
                     )   
                 ]    
             ]
@@ -48,7 +48,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/SDBOTs_inifinity")
+                        "𝙏𝙃𝙀𝙀𝙆𝙎𝙃𝘼𝙉𝘼 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇", url="https://t.me/https://t.me/Theekshana_Official")
                 ]
             ]
         )
