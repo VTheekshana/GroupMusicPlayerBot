@@ -28,12 +28,12 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/GroupMusicPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/Music-BOT)
 
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
 
 ### Credits
 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
-- [SDBOTs](https://t.me/SDBOTs_Inifinity)
+- [GitHub Repo](https://github.com/VTheekshana)
+- [THEEKSHANA](https://t.me/SDBOTs_Inifinity)
