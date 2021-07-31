@@ -3,7 +3,7 @@
 ### A bot that can play music on telegram group's voice Chat
 
 <p align="center">
-  <img src="https://telegra.ph/file/c5aec68fe0eeeecc66964.jpg">
+  <img src="https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -36,4 +36,4 @@ Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrog
 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [GitHub Repo](https://github.com/VTheekshana)
-- [THEEKSHANA](https://t.me/SDBOTs_Inifinity)
+- [THEEKSHANA](https://t.me/Pawan_Theekshana)
